@@ -1,0 +1,98 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    border-bottom: #6f42c1 solid 5px;
+}
+
+.navbar-brand {
+    color: #6f42c1 !important;
+    font-size: 30px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link {
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: #6f42c1;
+}
+
+#header {
+    background: url("../Images/img1.jpg");
+    height: 550px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #6f42c1 !important;
+}
+
+#features i {
+    color: #6f42c1;
+}
+
+#features i:hover {
+    color: #06020c;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h3:hover {
+    color: #6f42c1;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h4:hover {
+    color: #6f42c1;
+}
+
+#work {
+    background: url("../Images/Img2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ccard-header {
+    color: #6f42c1;
+}
+
+#achievements {
+    background: url("../Images/Img2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.achArea {
+    background-color: rgb(240, 234, 234);
+    height: 400px;
+    padding: 50px;
+}
+
+.achimg {
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: -50px;
+    position: relative;
+    z-index: 50;
+}
